@@ -14,7 +14,6 @@
   <img align="center" alt="Alephy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alephy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alephy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="alephy-github" height="225" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/D5635AQG2jwTpj8Nr0g/profile-framedphoto-shrink_200_200/0/1658934166501?e=1659621600&v=beta&t=-KNpRpqnZ0V8uzI4N4_TJY9iVjS_zK0d4eG48ssao6Y">
 </div>
 
 ##
