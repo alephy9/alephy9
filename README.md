@@ -3,6 +3,7 @@
 - 🔭 Prazer, sou um Desenvolvedor Front End
 - 🌱 Estudo HTML5 / CSS3 / Javascript
 - 😄 Pronomes: Ele/Dele
+- ⚠ Ordene o repositório por nome / Sort entitlement by name
 
 <div align="center">
   <a href="https://github.com/alephy9">
