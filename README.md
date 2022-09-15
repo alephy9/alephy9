@@ -1,7 +1,7 @@
 ### Olá, me chamo Alephy! 👋
 
-- 🔭 Prazer, sou um Desenvolvedor Front End
-- 🌱 Estudo HTML5 / CSS3 / Javascript
+- 🔭 Desenvolvedor Front End
+- 🌱 Estudando no momento: HTML5 / CSS3 / Javascript
 - 😄 Pronomes: Ele/Dele
 - ⚠ Ordene o repositório por nome / Sort entitlement by name
 
